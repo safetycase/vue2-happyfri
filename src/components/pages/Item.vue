@@ -8,6 +8,7 @@
 </template>
 
 <script>
+// http://localhost:8080/static/itemDetail.json
 	import MyHeader from '../common/Header.vue'
   	export default {
 		name: 'Item',
